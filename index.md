@@ -4,4 +4,4 @@ Here I will post about observations which I find interesting or tutorials about 
 
 ### Content Links will be posted below:
 
-1. [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) : A Basic Tutorial for Markdown syntax.
