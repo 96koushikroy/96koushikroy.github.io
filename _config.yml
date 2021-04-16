@@ -48,12 +48,13 @@ linkedin_username: 96koushikroy
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi all, I'm Koushik, a computer scientist from Bangladesh. I have been working in research for the past two years. I am currently working as a Research Assistant at the NSU-Apurba R&D Lab at North South University working on Bangla OCR for a project by the Government of Bangladesh. Previously, I have worked at [Gaze Pte. Ltd.](https://gaze.ai/){:target="_blank"} as a Deep Learning Researcher working on Face Liveliness Detection for Biometric Authentication pipelines.
+  Hi all, I'm Koushik, a computer scientist from Bangladesh. I have been working in research for the past two years. I am currently working as a Research Assistant at the NSU-Apurba R&D Lab at North South University, working on Bangla OCR for a project by the Government of Bangladesh. Previously, I have worked at [Gaze Pte. Ltd.](https://gaze.ai/){:target="_blank"} as a Deep Learning Researcher working on Face Liveliness Detection for Biometric Authentication pipelines.
 
-  Apart from this, I have been a part of multiple industry-academia collaborations with companies like [Headblocks Ltd.](http://www.head-blocks.com/){:target="_blank"} and [Apurba Technologies Inc.](http://www.apurbatech.com/){:target="_blank"} where I worked on ML-based solutions that would ameliorate their pre-existing conditions. 
+  Apart from this, I have been a part of multiple industry-academia collaborations with companies like [Headblocks Ltd.](http://www.head-blocks.com/){:target="_blank"} and [Apurba Technologies Inc.](http://www.apurbatech.com/){:target="_blank"}, where I worked on ML-based solutions that would ameliorate their pre-existing conditions. 
 
   Other than academics, I am an avid enthusiast for algorithmic problem solving, being a sport programmer during my undergraduate study, represented my university at multiple national and international competitions.
 
+  <i class="far fa-file"></i> CV link [here](https://drive.google.com/file/d/186TjJzYHmAyvCS0SeyA9H-AEGOVwUiBZ/view?usp=sharing){:target="_blank"}.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -77,7 +78,7 @@ content:
       - layout: top-middle
         title: <mark>North South University</mark>
         caption: 2015 - 2019, Dhaka, Bangladesh
-        sub_title: BSc. in Computer Science
+        sub_title: BSc. in Computer Science & Engineering
         additional_links:
           - title:  Dept. of CS at NSU
             icon: fas fa-globe
