@@ -1,1 +1,181 @@
-theme: jekyll-theme-cayman
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Koushik Roy
+title: Deep Learning Researcher (Computer Vision | Natural Language Processing)
+email: 96koushikroy[at]gmail.com
+website: https://scholar.google.com/citations?user=JzhGYr8AAAAJ&hl=en
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: 96kroy
+github_username:  96koushikroy
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: 96koushikroy
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: 96koushikroy
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: Google Scholar
+#   icon: fab fa-google-plus-g
+#   url: https://scholar.google.com/citations?user=JzhGYr8AAAAJ&hl=en
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi all, I'm Koushik, a computer scientist from Bangladesh. I have been working in research for the past two years. I am currently working as a Research Assistant at the NSU-Apurba R&D Lab at North South University working on Bangla OCR for a project by the Government of Bangladesh. Previously, I have worked at [Gaze Pte. Ltd.](https://gaze.ai/){:target="_blank"} as a Deep Learning Researcher working on Face Liveliness Detection for Biometric Authentication pipelines.
+
+  Apart from this, I have been a part of multiple industry-academia collaborations with companies like [Headblocks Ltd.](http://www.head-blocks.com/){:target="_blank"} and [Apurba Technologies Inc.](http://www.apurbatech.com/){:target="_blank"} where I worked on ML-based solutions that would ameliorate their pre-existing conditions. 
+
+  Other than academics, I am an avid enthusiast for algorithmic problem solving, being a sport programmer during my undergraduate study, represented my university at multiple national and international competitions.
+
+content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      # - layout: top-middle
+      #   title: Columbia University in the City of New York - NY, USA
+      #   caption: 2021 - 2023
+      #   sub_title: MS in Computer Science
+      #   # link: github.com/sproogen
+      #   # link_text: Project Website
+      #   additional_links:
+      #     - title:  Dept. of CS at Columbia
+      #       icon: fas fa-globe
+      #       url: https://www.cs.columbia.edu/
+      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+      #     #   icon: fab fa-github
+      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      #   quote: >
+      #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+
+      - layout: top-middle
+        title: <mark>North South University</mark>
+        caption: 2015 - 2019, Dhaka, Bangladesh
+        sub_title: BSc. in Computer Science
+        additional_links:
+          - title:  Dept. of CS at NSU
+            icon: fas fa-globe
+            url: http://ece.northsouth.edu/
+        quote: >
+          Graduated with a cumulative GPA of 3.53 out of 4.00 (cum-laude distinction).
+  
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: <mark>Apurba-NSU R&D Lab, North South University</mark>
+        sub_title: Research Assistant
+        caption: January 2021 - Present, Dhaka, Bangladesh
+        additional_links:
+          - title:  Dept. of CS at NSU
+            icon: fas fa-globe
+            url: http://ece.northsouth.edu/
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        quote: > # this will include new lines to allow paragraphs
+            Working at the Apurba-NSU R&D Lab, conducting research on Bangla OCR on a government-funded project primarily focused towards low-resource approaches, and developing NLP downstream tasks (NER, PoS Tagging, QA, etc.) using popular language models.
+      
+      - layout: top-middle
+        title: <mark>Gaze AI</mark>
+        sub_title: Deep Learning Researcher
+        caption: February 2020 - January 2021, Dhaka, Bangladesh
+        additional_links:
+          - title:  Gaze AI
+            icon: fas fa-globe
+            url: https://gaze.ai/
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        quote: > # this will include new lines to allow paragraphs
+            Worked on Vehicle Re-identification for the CVPR AICITY Challenge 2020, Knowledge Distillation for model optimization, and Face Recognition. Current research includes a Novel Face Spoof Detection (Gaze’s Flagship product) architecture which would leverage DL techniques and deploying PyTorch models with a C++ backend. My publications from this lab are available on the Publications section.
+
+  - title: Interests & Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Interests
+        description: | # this will include new lines to allow paragraphs
+          
+          - Metric Learning strategies for problems in Vision or NLP.
+          - Convex approaches for model optimization.
+          - Low Resource NLP Problems.
+          - Improvements for Face Anti-Spoofing using Neural approaches.
+
+      - layout: left
+        title: Technical Skills
+        description: | # this will include new lines to allow paragraphs
+          - Frameworks: PyTorch, AllenNLP, FastAI, NCNN, Flask, ReactJs, NodeJs
+          - Languages: C++, Python, Javascript, SQL
+
+  - title: Selected Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Journals
+        description: | # this will include new lines to allow paragraphs
+          - **Koushik Roy**, Md. Hasan, Labiba Rupty, Md. Sourave Hossain, Shirshajit Sengupta, Shehzad Noor Taus, and Nabeel Mohammed, **Bi-FPNFAS: Bi-Directional Feature Pyramid Network for Pixel-Wise Face Anti-Spoofing by Leveraging Fourier Spectra**, Sensors, vol. 21, no. 8, p. 2799, Apr. 2021 [Online]. Available: http://dx.doi.org/10.3390/s21082799
+      - layout: top-middle
+        title: Conference Papers
+        description: | # this will include new lines to allow paragraphs
+          - **Roy K.**, Hasan M., Fuhad K. M. F., Mohammed N., Rabby A. K. M., Hasan N., Nahar J., Rahman F. (2020). **Bangla Part of Speech Tagging Using Contextual Embeddings and Oversampling Techniques**. Advances in Intelligent Systems and Computing Volume 1288 (FTC 2020).
+          
+          - Hossain S., Rupty L. K., **Roy K.**, Hasan M., Gupta S. S., Mohammed N. (2020). **A-DeepPixBis: Attentional Angular Margin for Face Anti-Spoofing**. International Conference on Digital Image Computing: Techniques and Applications (DICTA 2020).
+
+          - **Roy  K.**, Khan A. M., Ali M. Z., Simanto S. R., Mohammed N., Atick M. A., . . ., Islam K. M. (2019). **An Analytical Approach for Enhancing the Automatic Detection and Recognition of Skewed Bangla License Plates**. 2019 International Conference on Bangla Speech and Language Processing (ICBSLP).
+
+          - **Roy K.**, Islam N., Khan T., Khan M. M. (2019). **A Novel Approach to Data Storage Using Blockchain Technology**. 2019 International Conference on Information Technology (ICIT).
+
+          - **Roy K.**, Imam A. A., Islam N., and Firoze  A. (2018). **A Traffic Jam Prediction Model for Dynamic Routes Using Global Positioning Systems Data from Vehicles at Different Times of the Day**. 2018 Joint 10th International Conference on Soft Computing and Intelligent Systems (SCIS) and 19th International Symposium on Advanced Intelligent Systems (ISIS). 
+  
+
+
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
