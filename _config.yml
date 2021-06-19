@@ -59,21 +59,6 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      # - layout: top-middle
-      #   title: Columbia University in the City of New York - NY, USA
-      #   caption: 2021 - 2023
-      #   sub_title: MS in Computer Science
-      #   # link: github.com/sproogen
-      #   # link_text: Project Website
-      #   additional_links:
-      #     - title:  Dept. of CS at Columbia
-      #       icon: fas fa-globe
-      #       url: https://www.cs.columbia.edu/
-      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #     #   icon: fab fa-github
-      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-      #   quote: >
-      #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 
       - layout: top-middle
         title: <mark>North South University</mark>
@@ -124,7 +109,7 @@ content:
           
           - Metric Learning strategies for problems in Vision or NLP.
           - Convex approaches for model optimization.
-          - Low Resource NLP Problems.
+          - Low Resource NLP Problems (e.g. Domain Adaptation, Cost Sensitive Learning).
           - Improvements for Face Anti-Spoofing using Neural approaches.
 
       - layout: left
@@ -139,19 +124,19 @@ content:
       - layout: top-middle
         title: Journals
         description: | # this will include new lines to allow paragraphs
-          - **Koushik Roy**, Md. Hasan, Labiba Rupty, Md. Sourave Hossain, Shirshajit Sengupta, Shehzad Noor Taus, and Nabeel Mohammed, **Bi-FPNFAS: Bi-Directional Feature Pyramid Network for Pixel-Wise Face Anti-Spoofing by Leveraging Fourier Spectra**, Sensors, vol. 21, no. 8, p. 2799, Apr. 2021 [Online]. Available: http://dx.doi.org/10.3390/s21082799
+          - **Koushik Roy**, Md. Hasan, Labiba Rupty, Md. Sourave Hossain, Shirshajit Sengupta, Shehzad Noor Taus, and Nabeel Mohammed, **Bi-FPNFAS: Bi-Directional Feature Pyramid Network for Pixel-Wise Face Anti-Spoofing by Leveraging Fourier Spectra**, Sensors, vol. 21, no. 8, p. 2799, Apr. 2021 [Online]. Available: [http://dx.doi.org/10.3390/s21082799](http://dx.doi.org/10.3390/s21082799){:target="_blank"}
       - layout: top-middle
         title: Conference Papers
         description: | # this will include new lines to allow paragraphs
-          - **Roy K.**, Hasan M., Fuhad K. M. F., Mohammed N., Rabby A. K. M., Hasan N., Nahar J., Rahman F. (2020). **Bangla Part of Speech Tagging Using Contextual Embeddings and Oversampling Techniques**. Advances in Intelligent Systems and Computing Volume 1288 (FTC 2020).
+          - **Roy K.**, Hasan M., Fuhad K. M. F., Mohammed N., Rabby A. K. M., Hasan N., Nahar J., Rahman F. (2020). **Bangla Part of Speech Tagging Using Contextual Embeddings and Oversampling Techniques**. Advances in Intelligent Systems and Computing Volume 1288 (FTC 2020) [Online]. Available: [http://doi.org/10.1007/978-3-030-63128-4_50](http://doi.org/10.1007/978-3-030-63128-4_50){:target="_blank"}
           
-          - Hossain S., Rupty L. K., **Roy K.**, Hasan M., Gupta S. S., Mohammed N. (2020). **A-DeepPixBis: Attentional Angular Margin for Face Anti-Spoofing**. International Conference on Digital Image Computing: Techniques and Applications (DICTA 2020).
+          - Hossain S., Rupty L. K., **Roy K.**, Hasan M., Gupta S. S., Mohammed N. (2020). **A-DeepPixBis: Attentional Angular Margin for Face Anti-Spoofing**. International Conference on Digital Image Computing: Techniques and Applications (DICTA 2020) [Online]. Available: [https://doi.org/10.1109/DICTA51227.2020.9363382](https://doi.org/10.1109/DICTA51227.2020.9363382){:target="_blank"}
 
-          - **Roy  K.**, Khan A. M., Ali M. Z., Simanto S. R., Mohammed N., Atick M. A., . . ., Islam K. M. (2019). **An Analytical Approach for Enhancing the Automatic Detection and Recognition of Skewed Bangla License Plates**. 2019 International Conference on Bangla Speech and Language Processing (ICBSLP).
+          - **Roy  K.**, Khan A. M., Ali M. Z., Simanto S. R., Mohammed N., Atick M. A., . . ., Islam K. M. (2019). **An Analytical Approach for Enhancing the Automatic Detection and Recognition of Skewed Bangla License Plates**. 2019 International Conference on Bangla Speech and Language Processing (ICBSLP) [Online]. Available: [https://doi.org/10.1109/ICBSLP47725.2019.201528](https://doi.org/10.1109/ICBSLP47725.2019.201528){:target="_blank"}
 
-          - **Roy K.**, Islam N., Khan T., Khan M. M. (2019). **A Novel Approach to Data Storage Using Blockchain Technology**. 2019 International Conference on Information Technology (ICIT).
+          - **Roy K.**, Islam N., Khan T., Khan M. M. (2019). **A Novel Approach to Data Storage Using Blockchain Technology**. 2019 International Conference on Information Technology (ICIT) [Online]. Available: [https://doi.org/10.1109/ICIT48102.2019.00050](https://doi.org/10.1109/ICIT48102.2019.00050){:target="_blank"}
 
-          - **Roy K.**, Imam A. A., Islam N., and Firoze  A. (2018). **A Traffic Jam Prediction Model for Dynamic Routes Using Global Positioning Systems Data from Vehicles at Different Times of the Day**. 2018 Joint 10th International Conference on Soft Computing and Intelligent Systems (SCIS) and 19th International Symposium on Advanced Intelligent Systems (ISIS). 
+          - **Roy K.**, Imam A. A., Islam N., and Firoze  A. (2018). **A Traffic Jam Prediction Model for Dynamic Routes Using Global Positioning Systems Data from Vehicles at Different Times of the Day**. 2018 Joint 10th International Conference on Soft Computing and Intelligent Systems (SCIS) and 19th International Symposium on Advanced Intelligent Systems (ISIS) [Online]. Available: [https://doi.org/10.1109/SCIS-ISIS.2018.00061](https://doi.org/10.1109/SCIS-ISIS.2018.00061){:target="_blank"} 
   
 
 
