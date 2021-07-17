@@ -109,8 +109,8 @@ content:
           
           - Metric Learning strategies for problems in Vision or NLP.
           - Convex approaches for model optimization.
-          - Low Resource NLP Problems (e.g. Domain Adaptation, Cost Sensitive Learning).
-          - Improvements for Face Anti-Spoofing using Neural approaches.
+          - Exploring Low Resource Problems (e.g. Domain Adaptation, Cost Sensitive Learning, Contrastive Learning).
+          - Improvements in downstream tasks such as Face Anti-Spoofing, Optical Character Recognition using Neural approaches.
 
       - layout: left
         title: Technical Skills
